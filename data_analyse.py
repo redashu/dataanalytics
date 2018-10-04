@@ -34,20 +34,3 @@ for  i  in  topic:
     blob_data=TextBlob(i.text)
     # applying sentiment  output will be polarity 
     print(blob_data.sentiment)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
